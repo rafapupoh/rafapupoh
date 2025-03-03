@@ -1,27 +1,28 @@
 ### Olá!Eu sou a Raphaela  Pupoh 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJS
-- 😄 Pronouns: ela/dela
 
--->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+Sou uma desenvolvedora Front-end apaixonada por criar interfaces intuitivas e experiências de usuário incríveis. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas Mobile na PUC-RS, onde aprimoro minhas habilidades em desenvolvimento de aplicativos.
 
-</div>
-  
-  ##
- 
-<div> 
- 
-  <a href="https://instagram.com/rafahcodex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href = "raphaeladealves@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href=" https://www.linkedin.com/in/rafapupoh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-</div>
+## Interesses e Habilidades
+
+* Desenvolvimento Front-end: HTML, CSS, JavaScript, React
+* Desenvolvimento Mobile: React Native (em aprendizado)
+* Design responsivo
+* UX/UI
+* Aprendizado contínuo
+
+## Projetos e Contribuições
+
+* [Website Responsivo para Pequenos Negócios](https://github.com/anasilva-dev/website-responsivo): Um website desenvolvido para auxiliar pequenos negócios a terem presença online.
+* [Aplicativo de Lista de Tarefas](https://github.com/anasilva-dev/aplicativo-lista-tarefas): Um aplicativo de lista de tarefas desenvolvido em React Native.
+* Contribuições para o projeto [Nome do Projeto Open Source]: [Link para o projeto]
+
+## Objetivos
+
+Meu objetivo é me tornar uma desenvolvedora Full-stack e contribuir para projetos inovadores que impactem positivamente a vida das pessoas.
+
+## Contato
+
+* LinkedIn: [Seu perfil do LinkedIn]
+* Twitter: [Seu perfil do Twitter]
+* E-mail: [seu endereço de e-mail]
