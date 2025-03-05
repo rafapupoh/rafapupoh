@@ -23,6 +23,6 @@ Meu objetivo é me tornar uma desenvolvedora Full-stack e contribuir para projet
 
 ## Contato
 
-* LinkedIn: [Seu perfil do LinkedIn]
+* LinkedIn: [www.linkedin.com/in/rafapupoh]
 * Twitter: [Seu perfil do Twitter]
 * E-mail: [seu endereço de e-mail]
