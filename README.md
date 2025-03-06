@@ -14,7 +14,7 @@ Sou uma desenvolvedora Front-end apaixonada por criar interfaces intuitivas e ex
 ## Projetos e Contribuições
 
 * [Website Responsivo para Pequenos Negócios](https://rafapupoh.github.io/website-responsivo/?#servicos)
-* [Aplicativo de Lista de Tarefas](https://github.com/anasilva-dev/aplicativo-lista-tarefas): Um aplicativo de lista de tarefas desenvolvido em React Native.
+* [Aplicativo de Lista de Tarefas](https://github.com/rafapupoh/listadetarefas.git) Um aplicativo de lista de tarefas desenvolvido em React Native.
 * Contribuições para o projeto [Nome do Projeto Open Source]: [Link para o projeto]
 
 ## Objetivos
