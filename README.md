@@ -1,30 +1,30 @@
 # 👩🏽‍💻 Raphaela Winchmere — Desenvolvedora & Criadora Poética
 
-Olá! Sou Raphaela, artista ritualística e desenvolvedora em formação, apaixonada por criar experiências digitais que tenham alma.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **PUCRS**, e estou em transição de carreira para a área de tecnologia, com foco em desenvolvimento web, design intuitivo e projetos criativos com propósito.
+Olá! Sou Raphaela, artista ritualística e estudante de Análise e Desenvolvimento de Sistemas pela PUCRS.  
+Unindo tecnologia e sensibilidade estética, desenvolvo experiências digitais que curam, inspiram e encantam.
 
 ---
 
-## 💼 Em busca de oportunidades
+## ✨ Sobre mim
 
-Estou aberta a vagas como:
-
-- Desenvolvedora Front-End Júnior  
-- Estagiária em Desenvolvimento Web  
-- Assistente de Projetos Digitais  
-- Criadora de conteúdo técnico ou poético para produtos digitais
-
-Busco ambientes que valorizem criatividade, sensibilidade estética e aprendizado contínuo.
+- 💻 Domínio de ferramentas como **HTML**, **CSS**, **Git** e **GitHub Pages**
+- 🌐 Aplicação prática em **projetos reais publicados**, com estrutura técnica e narrativa poética
+- 🛍️ Empreendedora criativa com os projetos **Bomas Nas** e **Lua de Papel**, que unem arte, espiritualidade e design digital
+- ✨ Capacidade de transformar ideias em experiências digitais com propósito — algo raro e valioso no mercado
 
 ---
 
-## 🧠 Habilidades
+## 🌘 Projetos publicados
 
-- HTML5, CSS3, Git e GitHub Pages  
-- Design responsivo e interfaces poéticas  
-- Escrita criativa e documentação de projetos  
-- Experiência com publicação de sites estáticos  
-- Familiaridade com JavaScript e Figma (em desenvolvimento)
+### [`Lua de Papel`](https://rafapupoh.github.io/lua-de-papel)  
+Papelaria ritualística com planner lunar, adesivos, cadernos e rituais de escrita.  
+Desenvolvido com HTML, CSS e GitHub Pages.
+
+### [`Salina Winchmere`](https://rafapupoh.github.io/salina-winchmere)  
+Biografia poética de uma personagem mística que escreve com sal e cura com sombra.
+
+### [`Grimório Digital`](https://github.com/rafapupoh/grimorio-digital)  
+Blog ritualístico com feitiços cotidianos e estrutura HTML/CSS organizada.
 
 ---
 
@@ -36,24 +36,11 @@ Busco ambientes que valorizem criatividade, sensibilidade estética e aprendizad
 
 ---
 
-## 🌘 Projetos em destaque
-
-### [`lua-de-papel`](https://rafapupoh.github.io/lua-de-papel)  
-Site de papelaria ritualística com estética lunar e navegação intuitiva.
-
-### [`salina-winchmere`](https://github.com/rafapupoh/salina-winchmere)  
-Biografia poética de uma personagem mística, com design responsivo e narrativa encantada.
-
-### [`grimorio-digital`](https://github.com/rafapupoh/grimorio-digital)  
-Blog ritualístico com feitiços cotidianos e estrutura HTML/CSS organizada.
-
----
-
-## 🖋️ Contato
+## 📬 Contato
 
 - 📧 Email: raphaela.win@gmail.com  
 - 📸 Instagram: [@bomasnascas](https://instagram.com/bomasnascas)  
-- 🌐 Portfólio: em construção
+- 🌐 Portfólio técnico: [Em construção](https://rafapupoh.github.io/portfolio-raphaela)
 
 ---
 
