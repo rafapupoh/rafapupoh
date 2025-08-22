@@ -23,7 +23,7 @@ Desenvolvido com HTML, CSS e GitHub Pages.
 ### [`Salina Winchmere`](https://rafapupoh.github.io/salina-winchmere)  
 Biografia poética de uma personagem mística que escreve com sal e cura com sombra.
 
-### [`Grimório Digital`](https://github.com/rafapupoh/grimorio-digital)  
+### [`Grimório Digital`](https://rafapupoh.github.io/grimorio-digital/)  
 Blog ritualístico com feitiços cotidianos e estrutura HTML/CSS organizada.
 
 ---
