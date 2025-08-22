@@ -40,8 +40,7 @@ Blog ritualístico com feitiços cotidianos e estrutura HTML/CSS organizada.
 
 - 📧 Email: raphaela.win@gmail.com  
 - 📸 Instagram: [@bomasnascas](https://instagram.com/bomasnascas)  
-- 🌐 Portfólio técnico: [
-](https://rafapupoh.github.io/portfolio-raphaela/)
+- 🌐 Portfólio técnico: (https://rafapupoh.github.io/portfolio-raphaela/)
 ---
 
 > _“Entre o código e o silêncio, também há poesia.”_
