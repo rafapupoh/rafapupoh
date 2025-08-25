@@ -16,14 +16,14 @@ Unindo tecnologia e sensibilidade estética, desenvolvo experiências digitais q
 
 ## 🌘 Projetos publicados
 
-### [`Lua de Papel`](https://rafapupoh.github.io/lua-de-papel)  
+### [`Lua de Papel`](https://rafawin.github.io/lua-de-papel)  
 Papelaria ritualística com planner lunar, adesivos, cadernos e rituais de escrita.  
 Desenvolvido com HTML, CSS e GitHub Pages.
 
-### [`Salina Winchmere`](https://rafapupoh.github.io/salina-winchmere)  
+### [`Salina Winchmere`](https://rafawin.github.io/salina-winchmere)  
 Biografia poética de uma personagem mística que escreve com sal e cura com sombra.
 
-### [`Grimório Digital`](https://rafapupoh.github.io/grimorio-digital/)  
+### [`Grimório Digital`](https://rafawin.github.io/grimorio-digital/)  
 Blog ritualístico com feitiços cotidianos e estrutura HTML/CSS organizada.
 
 ---
